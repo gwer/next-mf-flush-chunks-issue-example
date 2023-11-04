@@ -1,3 +1,5 @@
+This is an example repository for investigating the issue https://github.com/module-federation/universe/issues/1550
+
 ## Init Apps
 
 ```
